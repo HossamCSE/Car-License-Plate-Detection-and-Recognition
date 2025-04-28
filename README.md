@@ -13,6 +13,19 @@ This project uses YOLOv8 for **automatic car license plate detection** and EasyO
 - Save results (plate number + confidence) into a CSV file.
 
 ---
+## Tools & Technologies Used
+-Python 3.8+ — Programming language
+
+-YOLOv8 (Ultralytics) — Object detection model
+
+-EasyOCR — OCR engine to extract text from images
+
+-OpenCV — For image reading, cropping, and saving
+
+-Pandas — To manage OCR outputs and save them as CSV
+
+-Kaggle Datasets — Used to get the license plate dataset
+
 
 ## 🛠️ Installation
 
